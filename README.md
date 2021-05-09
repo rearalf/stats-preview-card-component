@@ -27,9 +27,9 @@ For this challenge I need basic knowledge about HTML and CSS. The challenge is t
 
 ### Screenshot
 
-<img src="D:\Paginas\Frontend Mentor\stats-preview-card-component-main\design\desktop-design.jpg" alt="This is image at 1440px" />
+<img src=".\design\desktop-design.jpg" alt="This is image at 1440px" />
 
-<img src="D:\Paginas\Frontend Mentor\stats-preview-card-component-main\design\mobile-design.jpg" alt="This is image at 375px" />
+<img src=".\design\mobile-design.jpg" alt="This is image at 375px" />
 
 ### Links
 
